@@ -1,2 +1,2 @@
-Aqui debe ir el mensaje que van a encriptar por el tercer metodo, no usen acentos xd.
+Aqui debe ir el mensaje que van a encriptar por el tercer metodo, no usen acentos.
 terminando la encripcion borra el contenido de este archivo
